@@ -1,0 +1,56 @@
+header{
+    background-color: #333;
+    color: white;
+    padding: 10px 5px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+section{
+    padding: 20px;
+}
+footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+.homeimages img{
+    width: 300px;
+    margin: 5px 10px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    height: 315px;
+}
+.video iframe{
+    margin: 20px;
+    display: flex;  
+    padding: 20px;
+}
+h2, h3{
+    text-align: center;
+}
+.directors{
+    height;: 100%;
+    display: inline;
+}
+.officeComplex img{
+    width: 100%;
+    padding: 20px;
+    justify-content: space-evenly;
+    margin-left: 1px;
+}
